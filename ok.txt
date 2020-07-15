@@ -1,0 +1,2 @@
+framework7 create --ui
+npm i framework7-cli cordova -g
